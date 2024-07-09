@@ -1,10 +1,10 @@
 # Angular Chrome Headless Docker
-Docker image with embedded Node 14 and Chrome Headless preconfigured for Angular unit/e2e tests on your CI/CD servers
+Docker image with embedded Node 20 and Chrome Headless preconfigured for Angular unit/e2e tests on your CI/CD servers
 
 
 ### Get the image: 
 
-`docker pull lukaszgodula/angular-chrome-headless-docker-node-14`
+`docker pull lukaszgodula/angular-chrome-headless-docker-node-20`
 
 #### Launch scripts:
 
